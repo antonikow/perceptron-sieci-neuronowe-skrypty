@@ -1,5 +1,6 @@
 # perceptron-sieci-neuronowe-skrypty
 
+Troche ciekawych skryptów napisanych w toku studiów wg wprowadzenia teoretycznego działania algorytmów.
 perceptron_separacja - separacja danych separowalnych liniowo z użyciem perceptronu
 perceptron_podniesienie_wymiarowosci - separacja danych liniowo nieseparowalnych z użyciem podniesienia wymiarowości wejść(centra) i jądrowymi funkcjami gaussowskimi
 siec_neuronowa_aproksymacja - uczenie sieci i aproksymacja 
